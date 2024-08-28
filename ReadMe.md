@@ -2,7 +2,7 @@
 
 This repository demonstrates the implementation of the Abstract Factory Design Pattern using .NET Core and C# 12. With the Abstract Factory pattern, families of related or dependent objects can be created without specifying their concrete classes, which ensures loose coupling and flexibility in software development.
 
- **[Article published on C# Corner click here to read this article](https://www.c-sharpcorner.com/article/a-brief-introduction-to-asp-net-core-using-c-sharp12-and-net-8/)**
+ **[Article published on C# Corner click here to read this article](https://www.c-sharpcorner.com/article/abstract-factory-design-pattern-in-net-core-c-sharp-12/)**
 
 ## Components
 
