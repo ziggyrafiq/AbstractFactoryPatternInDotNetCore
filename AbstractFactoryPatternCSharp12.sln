@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryImplementation", "AbstractFactoryImplementation\AbstractFactoryImplementation.csproj", "{FB4EBA3B-F90C-47D7-BA48-DF738E032403}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRC", "SRC", "{780C81AA-469C-4EA1-B51D-AA1CFDF95DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB4EBA3B-F90C-47D7-BA48-DF738E032403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4EBA3B-F90C-47D7-BA48-DF738E032403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4EBA3B-F90C-47D7-BA48-DF738E032403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4EBA3B-F90C-47D7-BA48-DF738E032403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FB4EBA3B-F90C-47D7-BA48-DF738E032403} = {780C81AA-469C-4EA1-B51D-AA1CFDF95DE5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {332F9E7C-9257-4289-B8C8-417C18A92A04}
+	EndGlobalSection
+EndGlobal
